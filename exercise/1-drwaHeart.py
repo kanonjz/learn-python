@@ -76,5 +76,6 @@ drawHeart()
      linspace函数用法  http://blog.csdn.net/grey_csdn/article/details/54561796
      power函数用法  http://blog.csdn.net/lql0716/article/details/52910812?locationNum=2&fps=1
      matplotlib  tutorial https://matplotlib.org/users/pyplot_tutorial.html
+     python画心形线  http://blog.csdn.net/thao6626/article/details/46639749
      
      
