@@ -72,7 +72,7 @@ def drawHeart():
 drawHeart()
 
 ========================================================================
-参考：不错的几个心形曲线  http://blog.sina.com.cn/s/blog_532affea01014iel.html
+参考：[不错的几个心形曲线](http://blog.sina.com.cn/s/blog_532affea01014iel.html)
      linspace函数用法  http://blog.csdn.net/grey_csdn/article/details/54561796
      power函数用法  http://blog.csdn.net/lql0716/article/details/52910812?locationNum=2&fps=1
      matplotlib  tutorial https://matplotlib.org/users/pyplot_tutorial.html
