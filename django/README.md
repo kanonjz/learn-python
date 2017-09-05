@@ -1,1 +1,1 @@
-![捕获](./pictures/捕获.png）
+![捕获](./pictures/1.png）
