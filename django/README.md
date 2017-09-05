@@ -1,1 +1,1 @@
- ![捕获](https://github.com/kanonjz/learn-python/raw/master/django/pictures/1.PNG）
+![捕获](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif）
