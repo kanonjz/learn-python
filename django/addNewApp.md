@@ -31,3 +31,5 @@ from calculator import views as calculator_views
 url(r'^add/$', calculator_views.add_1, name='add-1'),
 url(r'^add/(\d+)/(\d+)/$', calculator_views.add_2, name='add-2'),
 ```
+### 两种传参方式
+`/add/?a=3&b=4` `/add/3/4`
