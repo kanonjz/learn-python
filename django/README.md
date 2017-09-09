@@ -6,3 +6,5 @@ Since we’re creating a POST form (which can have the effect of modifying data)
 ***
 ### `<a href="{% url 'add-2' 3 4 %}">signup</a>`
 这里的url还有待理解，涉及到reverse（）函数。可以进行传参，add-2是在`urls.py`中定义的名字，生成的url为/add/3/4/
+##### 写url其实也可以用hardcoded的方法
+`<a href="../polls/pagination">signup</a>`
