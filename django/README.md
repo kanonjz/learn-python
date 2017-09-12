@@ -60,7 +60,7 @@ The include() function allows referencing other URLconfs. Note that the regular 
 The idea behind include() is to make it easy to plug-and-play URLs. Since polls are in their own URLconf (polls/urls.py), they can be placed under “/polls/”, or under “/fun_polls/”, or under “/content/polls/”, or any other path root, and the app will still work.
 
 ### django版本问题
-从网上下载的django app可能存在版本问题
+从网上下载的django app可能存在版本问题,一般高版本的可以运行低版本的django
 更新django
 ```
 pip install --upgrade django
