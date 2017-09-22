@@ -11,3 +11,5 @@
    [安全组规则配置](https://help.aliyun.com/document_detail/25475.html?spm=5176.2020520101.121.1.6029e411vFxRUf)
    [Linux 实例 SSH 连接安全组设置](https://help.aliyun.com/knowledge_detail/52086.html)
    如果还不行，排查是否启动ssh服务[ssh服务启动教程](https://yq.aliyun.com/articles/131764)
+4. Linux下安装python
+[教程](http://www.linuxidc.com/Linux/2016-04/129784.htm)
