@@ -13,3 +13,5 @@
    如果还不行，排查是否启动ssh服务[ssh服务启动教程](https://yq.aliyun.com/articles/131764)
 ## Linux下安装python
 [教程1](http://www.linuxidc.com/Linux/2016-04/129784.htm) [教程2](http://blog.csdn.net/hobohero/article/details/54381475)
+
+## [Virtualenv](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001432712108300322c61f256c74803b43bfd65c6f8d0d0000)
