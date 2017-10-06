@@ -23,7 +23,7 @@ password = ''
 # 建立会话
 s = requests.Session()
 # 请求登陆页面
-pageLogin = s.get(url)
+pageLogin = s.get(url, headers=headers)
 soupLogin = BeautifulSoup(pageLogin.content, "html.parser")
 # 登陆参数填充
 lt = soupLogin.find('input', {'name':'lt'})['value']
