@@ -1,3 +1,4 @@
+subprocess模块和os模块都可以用来执行shell命令，不同的是subprocess是开启一个子进程来执行
 ```
 def get_git_address( file_name_piece ):
     cur_dir = os.getcwd()
