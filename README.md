@@ -18,3 +18,9 @@
 
 ## 多进程、管道、队列
 [参考文章](http://python.jobbole.com/82045/)
+
+## python namespace（LEGB规则）
+**Local**：函数、方法内部的局部变量  
+**Enclosing**：如果有嵌套函数，内层函数就会搜索外层函数的namespace，该namespace对内层函数而言既非局部也非全局。  
+**Global**：当前模块下的全局变量  
+**Built-in**：python内建的关键字和变量  
