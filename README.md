@@ -24,3 +24,6 @@
 **Enclosing**：如果有嵌套函数，内层函数就会搜索外层函数的namespace，该namespace对内层函数而言既非局部也非全局。  
 **Global**：当前模块下的全局变量  
 **Built-in**：python内建的关键字和变量  
+
+## 函数式编程
+![函数式编程](http://oyrpkn4bk.bkt.clouddn.com/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.png)
