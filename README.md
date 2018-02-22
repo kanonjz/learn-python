@@ -27,7 +27,7 @@
 
 ## 函数式编程
 ![函数式编程](http://oyrpkn4bk.bkt.clouddn.com/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.png)  
-[廖雪峰：函数式编程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014317848428125ae6aa24068b4c50a7e71501ab275d52000)
+[廖雪峰：函数式编程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014317848428125ae6aa24068b4c50a7e71501ab275d52000)  
 [函数式编程（Functional Programming）简介](http://janfan.cn/chinese/2015/05/18/functional-programming.html)  
 
 优点：  
